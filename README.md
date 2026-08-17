@@ -1,12 +1,9 @@
 # Furkan Yaşar
-### **Network Engineer**
-*BSc in Computer Engineering*
+### **Network Engineer** · *BSc in Computer Engineering*
+
+`Field Operations` ──► `Enterprise Infrastructure` ──► `Network Automation`
 
 ---
-
-```
-[ Field Operations ] ──► [ Enterprise Infrastructure ] ──► [ Network Automation & NetDevOps ]
-```
 
 I am a **Network Engineer** with a Computer Engineering background, specializing in enterprise routing & switching, network security, and infrastructure systems.
 
