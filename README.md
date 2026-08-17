@@ -16,26 +16,6 @@ My open-source work focuses on bridging hands-on networking operations with soft
 
 ---
 
-### 🌐 Core Engineering Competencies
-
-#### **Routing & Switching Architecture**
-* **L2 Infrastructure:** STP / RSTP / MSTP, VLAN Trunking (802.1Q), EtherChannel (LACP/PAGP), VTP, QinQ.
-* **L3 Protocols & Routing:** OSPF (Single & Multi-Area), BGP, EIGRP, Static Routing, Inter-VLAN Routing.
-* **High Availability & Redundancy:** HSRP, VRRP, GLBP, First Hop Redundancy Protocols (FHRP).
-* **IP Addressing & Services:** IPv4 / IPv6 Subnetting & Supernetting, SLAAC, DHCPv4/v6, NAT/PAT, DNS.
-
-#### **Network Security & Infrastructure Hardening**
-* **Access Control:** Standard, Extended, and Named ACL Design; Multi-Vendor Firewall Filtering.
-* **Switch & Port Security:** 802.1X, Port Security (Sticky MAC), DHCP Snooping, Dynamic ARP Inspection (DAI), IP Source Guard.
-* **Device Hardening:** AAA (TACACS+/RADIUS), Control Plane Policing (CoPP), SSHv2, SNMPv3, Syslog.
-
-#### **Network Automation & NetDevOps**
-* **Programmability & APIs:** GNS3 REST API, Python (`Netmiko`, `Paramiko`, `Scapy`), Jinja2 Config Templating.
-* **Multi-Vendor Environments:** Cisco IOS / IOS-XE, Juniper Junos, Huawei VRP.
-* **Packet & Protocol Analysis:** Deep packet inspection with Wireshark, BPDU frame analysis, TCP/IP flow analysis.
-
----
-
 ### 🛠️ Featured Engineering & Automation Projects
 
 <table>
@@ -78,6 +58,26 @@ My open-source work focuses on bridging hands-on networking operations with soft
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Core Engineering Competencies
+
+#### **Routing & Switching Architecture**
+* **L2 Infrastructure:** STP / RSTP / MSTP, VLAN Trunking (802.1Q), EtherChannel (LACP/PAGP), VTP, QinQ.
+* **L3 Protocols & Routing:** OSPF (Single & Multi-Area), BGP, EIGRP, Static Routing, Inter-VLAN Routing.
+* **High Availability & Redundancy:** HSRP, VRRP, GLBP, First Hop Redundancy Protocols (FHRP).
+* **IP Addressing & Services:** IPv4 / IPv6 Subnetting & Supernetting, SLAAC, DHCPv4/v6, NAT/PAT, DNS.
+
+#### **Network Security & Infrastructure Hardening**
+* **Access Control:** Standard, Extended, and Named ACL Design; Multi-Vendor Firewall Filtering.
+* **Switch & Port Security:** 802.1X, Port Security (Sticky MAC), DHCP Snooping, Dynamic ARP Inspection (DAI), IP Source Guard.
+* **Device Hardening:** AAA (TACACS+/RADIUS), Control Plane Policing (CoPP), SSHv2, SNMPv3, Syslog.
+
+#### **Network Automation & NetDevOps**
+* **Programmability & APIs:** GNS3 REST API, Python (`Netmiko`, `Paramiko`, `Scapy`), Jinja2 Config Templating.
+* **Multi-Vendor Environments:** Cisco IOS / IOS-XE, Juniper Junos, Huawei VRP.
+* **Packet & Protocol Analysis:** Deep packet inspection with Wireshark, BPDU frame analysis, TCP/IP flow analysis.
 
 ---
 
