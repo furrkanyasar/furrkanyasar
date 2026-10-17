@@ -1,5 +1,6 @@
 # Furkan Yaşar
-### **Network Engineer** · *BSc in Computer Engineering* · *MSc Cyber Security and Encryption*
+### **Network Engineer**
+*BSc in Computer Engineering · MSc in Cyber Security and Encryption*
 
 ---
 
@@ -10,6 +11,39 @@ Currently, I work directly in the field, taking responsibility for the deploymen
 My open-source work focuses on bridging hands-on networking operations with software automation—developing protocol simulators, multi-vendor CLI engines, and network management tools.
 
 ---
+
+### 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/furrkanyasar/Zenith-GNS">Zenith GNS</a></h4>
+      <p>GNS3 network management & automation desktop suite. Mass device provisioning, topology discovery, automated <code>running-config</code> backups, and visual configuration diff engine.</p>
+      <p><code>Python</code> · <code>CustomTkinter</code> · <code>GNS3 REST API</code> · <code>SQLite</code></p>
+      <p>📂 <a href="https://github.com/furrkanyasar/Zenith-GNS"><b>GitHub Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔀 <a href="https://github.com/furrkanyasar/stp-simulator">STP Topology Simulator</a></h4>
+      <p>Real-time 802.1D / 802.1w / 802.1s Spanning Tree simulator. Root Bridge elections, RPC calculation, port role convergence, BPDU inspection, and live Syslog output.</p>
+      <p><code>TypeScript</code> · <code>React</code> · <code>HTML5 Canvas</code> · <code>Vite</code></p>
+      <p>🌐 <a href="https://furrkanyasar.github.io/stp-simulator/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 📂 <a href="https://github.com/furrkanyasar/stp-simulator"><b>GitHub Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/furrkanyasar/acl-generator">ACL Generator</a></h4>
+      <p>Enterprise Network ACL Builder with real-time packet simulation and multi-vendor CLI output. Generates ready-to-deploy access control configurations for Cisco, Juniper, and Huawei devices.</p>
+      <p><code>JavaScript</code> · <code>Cisco IOS</code> · <code>Juniper Junos</code> · <code>Huawei VRP</code></p>
+      <p>🌐 <a href="https://furrkanyasar.github.io/acl-generator/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 📂 <a href="https://github.com/furrkanyasar/acl-generator"><b>GitHub Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📖 <a href="https://github.com/furrkanyasar/cisco-ios-komutlari">Cisco IOS Komutları</a></h4>
+      <p>Comprehensive Turkish-language Cisco IOS command reference for CCNA/CCNP certification and day-to-day network operations. Covers routing, switching, security, and troubleshooting commands with PDF export support.</p>
+      <p><code>Cisco IOS</code> · <code>CCNA</code> · <code>CCNP</code> · <code>Turkish</code></p>
+      <p>📂 <a href="https://github.com/furrkanyasar/cisco-ios-komutlari"><b>GitHub Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,4 +77,3 @@ My open-source work focuses on bridging hands-on networking operations with soft
 **Network Automation & NetDevOps**
 - **Python Automation:** Netmiko, Paramiko, Jinja2 Config Templating
 - **Multi-Vendor CLI:** Cisco IOS / IOS-XE, Juniper Junos, Huawei VRP
-- **Protocol Analysis:** Wireshark packet capture & flow analysis, BPDU frame inspection, TCP/IP troubleshooting
