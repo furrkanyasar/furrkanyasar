@@ -11,30 +11,6 @@ My open-source work focuses on bridging hands-on networking operations with soft
 
 ---
 
-### 🛠️ Featured Engineering & Automation Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/furrkanyasar/Zenith-GNS">Zenith GNS</a></h4>
-      <p>Modern GNS3 network management & automation desktop suite. Features mass device provisioning, instant topology discovery via GNS3 REST API, automated <code>running-config</code> backups, and a visual configuration diff engine.</p>
-      <p><code>Python</code> · <code>CustomTkinter</code> · <code>GNS3 REST API</code> · <code>SQLite</code> · <code>Threading</code></p>
-      <p>
-        📂 <a href="https://github.com/furrkanyasar/Zenith-GNS"><b>GitHub Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔀 <a href="https://github.com/furrkanyasar/stp-simulator">STP Topology Simulator</a></h4>
-      <p>Interactive, real-time 802.1D / 802.1w / 802.1s Spanning Tree simulator. Real-time Root Bridge elections, Root Path Cost (RPC) calculation, port role convergence, BPDU frame inspection, and live Syslog generation.</p>
-      <p><code>TypeScript</code> · <code>React</code> · <code>HTML5 Canvas</code> · <code>Vite</code></p>
-      <p>
-        🌐 <a href="https://furrkanyasar.github.io/stp-simulator/"><b>Live Demo →</b></a> &nbsp;|&nbsp;
-        📂 <a href="https://github.com/furrkanyasar/stp-simulator"><b>GitHub Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🌐 Core Engineering Competencies
