@@ -1,7 +1,5 @@
 # Furkan Yaşar
-### **Network Engineer** · *BSc in Computer Engineering*
-
-`Field Operations` ──► `Enterprise Infrastructure` ──► `Network Automation`
+### **Network Engineer** · *BSc in Computer Engineering* · *MSc Cyber Security and Encryption*
 
 ---
 
@@ -30,27 +28,8 @@ My open-source work focuses on bridging hands-on networking operations with soft
       <p>Interactive, real-time 802.1D / 802.1w / 802.1s Spanning Tree simulator. Real-time Root Bridge elections, Root Path Cost (RPC) calculation, port role convergence, BPDU frame inspection, and live Syslog generation.</p>
       <p><code>TypeScript</code> · <code>React</code> · <code>HTML5 Canvas</code> · <code>Vite</code></p>
       <p>
-        🌐 <a href="https://furrkanyasar.github.io/stp-simulator/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 
+        🌐 <a href="https://furrkanyasar.github.io/stp-simulator/"><b>Live Demo →</b></a> &nbsp;|&nbsp;
         📂 <a href="https://github.com/furrkanyasar/stp-simulator"><b>GitHub Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/furrkanyasar/acl-generator">Enterprise ACL Generator & Analyzer</a></h4>
-      <p>Multi-vendor ACL generator and static rule analyzer across Cisco, Juniper, and Huawei syntax. Detects rule shadowing, redundancy, and logical conflicts, paired with a real-time IP/Port packet flow verification simulator.</p>
-      <p><code>JavaScript (ES6+)</code> · <code>Rule Analysis Engine</code> · <code>Multi-Vendor CLI</code></p>
-      <p>
-        🌐 <a href="https://furrkanyasar.github.io/acl-generator/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 
-        📂 <a href="https://github.com/furrkanyasar/acl-generator"><b>GitHub Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/furrkanyasar/packet-tracer-turkish-translation">Cisco Packet Tracer TR Localization</a></h4>
-      <p>Community-driven, technically standardized Turkish localization package (<code>tur.ts</code> / <code>tur.ptl</code>) for Cisco Packet Tracer, preserving enterprise networking terminology while providing seamless native UI integration.</p>
-      <p><code>Cisco Packet Tracer</code> · <code>Qt Linguist</code> · <code>Batch Automation</code></p>
-      <p>
-        📂 <a href="https://github.com/furrkanyasar/packet-tracer-turkish-translation"><b>GitHub Repository →</b></a>
       </p>
     </td>
   </tr>
@@ -60,31 +39,32 @@ My open-source work focuses on bridging hands-on networking operations with soft
 
 ### 🌐 Core Engineering Competencies
 
-#### **Routing & Switching Architecture**
-* **L2 Infrastructure:** STP / RSTP / MSTP, VLAN Trunking (802.1Q), EtherChannel (LACP/PAGP), VTP, QinQ.
-* **L3 Protocols & Routing:** OSPF (Single & Multi-Area), BGP, EIGRP, Static Routing, Inter-VLAN Routing.
-* **High Availability & Redundancy:** HSRP, VRRP, GLBP, First Hop Redundancy Protocols (FHRP).
-* **IP Addressing & Services:** IPv4 / IPv6 Subnetting & Supernetting, SLAAC, DHCPv4/v6, NAT/PAT, DNS.
+**Routing & Switching Architecture**
+- **L2 Infrastructure:** STP / RSTP / MSTP, 802.1Q VLAN Trunking, EtherChannel (LACP / PAgP), VTP
+- **L3 Routing:** OSPF (Single & Multi-Area), EIGRP, BGP, Inter-VLAN Routing (SVI / Router-on-a-Stick)
+- **High Availability:** HSRP, VRRP, GLBP
+- **IP Services:** IPv4 / IPv6 Addressing & Subnetting, SLAAC, DHCPv4/v6, NAT / PAT, DNS
 
-#### **Network Security & Infrastructure Hardening**
-* **Access Control:** Standard, Extended, and Named ACL Design; Multi-Vendor Firewall Filtering.
-* **Switch & Port Security:** 802.1X, Port Security (Sticky MAC), DHCP Snooping, Dynamic ARP Inspection (DAI), IP Source Guard.
-* **Device Hardening:** AAA (TACACS+/RADIUS), Control Plane Policing (CoPP), SSHv2, SNMPv3, Syslog.
+**Network Security & Infrastructure Hardening**
+- **Access Control:** Standard & Extended ACL Design, Multi-Vendor Firewall Policy
+- **Layer 2 Security:** 802.1X, Port Security (Sticky MAC), DHCP Snooping, Dynamic ARP Inspection (DAI), IP Source Guard
+- **Device Hardening:** AAA (TACACS+ / RADIUS), Control Plane Policing (CoPP), SSHv2, SNMPv3, Syslog
 
-#### **Network Automation & NetDevOps**
-* **Programmability & APIs:** GNS3 REST API, Python (`Netmiko`, `Paramiko`, `Scapy`), Jinja2 Config Templating.
-* **Multi-Vendor Environments:** Cisco IOS / IOS-XE, Juniper Junos, Huawei VRP.
-* **Packet & Protocol Analysis:** Deep packet inspection with Wireshark, BPDU frame analysis, TCP/IP flow analysis.
+**Enterprise Network Design**
+- **Hierarchical Architecture:** Three-tier (Core / Distribution / Access) and collapsed two-tier campus design
+- **High Availability Design:** Redundant uplinks, dual-homed topologies, FHRP-based gateway failover
+- **Network Segmentation:** VLAN architecture, IP addressing schemes, summarization & route aggregation
+- **WAN Connectivity:** Site-to-site topology planning, static & dynamic routing over WAN links
+- **Scalability & Documentation:** Capacity planning, logical / physical topology documentation, change management
 
----
+**Network Troubleshooting & Diagnostics**
+- **Systematic Methodology:** OSI-layer isolation, top-down / bottom-up / divide-and-conquer approaches
+- **Routing & Reachability:** `show` / `debug` command-driven diagnosis for OSPF, EIGRP, BGP adjacency & path issues
+- **Layer 2 Issues:** STP topology changes, EtherChannel misconfiguration, VLAN / trunk inconsistencies
+- **Security & Control Plane:** ACL hit analysis, AAA authentication failures, CoPP policy validation
+- **Tools & Capture:** Wireshark packet capture, TCP/IP flow analysis, BPDU frame inspection, Syslog correlation
 
-### 📚 Technical Reference & Training
-* **Cisco Networking Academy Instructor:** Delivering hands-on enterprise networking, switching/routing architectures, and cybersecurity courses.
-* **[Cisco IOS Configuration Guides](https://github.com/furrkanyasar/cisco-ios-komutlari):** Practical enterprise command and troubleshooting reference guides covering CCNA/CCNP blueprint topics (VLANs, OSPF, STP, EtherChannel, HSRP, Security Hardening).
-
----
-
-### 📬 Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/furrkanyasar](https://www.linkedin.com/in/furrkanyasar/)
-* **GitHub:** [github.com/furrkanyasar](https://github.com/furrkanyasar)
+**Network Automation & NetDevOps**
+- **Python Automation:** Netmiko, Paramiko, Jinja2 Config Templating
+- **Multi-Vendor CLI:** Cisco IOS / IOS-XE, Juniper Junos, Huawei VRP
+- **Protocol Analysis:** Wireshark packet capture & flow analysis, BPDU frame inspection, TCP/IP troubleshooting
